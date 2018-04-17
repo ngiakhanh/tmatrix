@@ -61,7 +61,6 @@ public class MyMatrix {
 		{
 			n = rand.nextInt(10);
 	        output.write(String.valueOf(n)+"\t");
-	        System.out.println(String.valueOf(n)+"\t");
 		}
 		output.write("\n");
 	}
